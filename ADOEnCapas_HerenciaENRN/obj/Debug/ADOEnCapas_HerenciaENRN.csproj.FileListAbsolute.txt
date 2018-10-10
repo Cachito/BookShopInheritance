@@ -1,0 +1,34 @@
+d:\leonardo\documents\visual studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\ADOEnCapas_HerenciaENRN.exe.config
+d:\leonardo\documents\visual studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\ADOEnCapas_HerenciaENRN.exe
+d:\leonardo\documents\visual studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\ADOEnCapas_HerenciaENRN.pdb
+d:\leonardo\documents\visual studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.Properties.Resources.resources
+d:\leonardo\documents\visual studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.csproj.GenerateResource.Cache
+d:\leonardo\documents\visual studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.exe
+d:\leonardo\documents\visual studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.pdb
+D:\Leonardo\Documents\Visual Studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.csprojResolveAssemblyReference.cache
+D:\Leonardo\Documents\Visual Studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.AlumnoListado.resources
+D:\Leonardo\Documents\Visual Studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.Principal.resources
+D:\Leonardo\Documents\Visual Studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\BE.dll
+D:\Leonardo\Documents\Visual Studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\BL.dll
+D:\Leonardo\Documents\Visual Studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\DAL.dll
+D:\Leonardo\Documents\Visual Studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\BE.pdb
+D:\Leonardo\Documents\Visual Studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\BL.pdb
+D:\Leonardo\Documents\Visual Studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\DAL.pdb
+D:\Leonardo\Documents\Visual Studio 2013\Projects\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.AlumnoABM.resources
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\ADOEnCapas_HerenciaENRN.exe.config
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.exe
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.pdb
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\ADOEnCapas_HerenciaENRN.exe
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\ADOEnCapas_HerenciaENRN.pdb
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\BL.dll
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\DAL.dll
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\BL.pdb
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\bin\Debug\DAL.pdb
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.csprojResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.AlumnoABM.resources
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.AlumnoListado.resources
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.Principal.resources
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.Properties.Resources.resources
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\obj\Debug\ADOEnCapas_HerenciaENRN.csproj.GenerateResource.Cache

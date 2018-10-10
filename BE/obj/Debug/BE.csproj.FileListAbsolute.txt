@@ -1,0 +1,9 @@
+d:\leonardo\documents\visual studio 2013\Projects\ADOEnCapas_HerenciaENRN\BE\bin\Debug\BE.dll
+d:\leonardo\documents\visual studio 2013\Projects\ADOEnCapas_HerenciaENRN\BE\bin\Debug\BE.pdb
+d:\leonardo\documents\visual studio 2013\Projects\ADOEnCapas_HerenciaENRN\BE\obj\Debug\BE.dll
+d:\leonardo\documents\visual studio 2013\Projects\ADOEnCapas_HerenciaENRN\BE\obj\Debug\BE.pdb
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\BE\bin\Debug\BE.dll
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\BE\bin\Debug\BE.pdb
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\BE\obj\Debug\BE.dll
+C:\Users\Navegador\Desktop\ADOEnCapas2_Herencia\ADOEnCapas_HerenciaENRN\ADOEnCapas_HerenciaENRN\BE\obj\Debug\BE.pdb
